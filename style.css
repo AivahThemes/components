@@ -259,7 +259,6 @@ html[xmlns] .flexslider .slides {
   border-radius: 65%;
   flex-shrink: 1;
 }
-
 .flex-control-thumbs .flex-active {
   opacity: 1;
   cursor: default;
