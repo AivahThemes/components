@@ -44,6 +44,7 @@ ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, 
 }
 /* second line added for testing purpose*/
 /* HTML5 display-role reset for older browsers */
+/* Added third line by Meraj*/
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display : block;
 }
