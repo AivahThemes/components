@@ -256,7 +256,7 @@ html[xmlns] .flexslider .slides {
 .flex-control-thumbs img:hover {
   opacity: 1;
   display: flex;
-  border-radius: 20%;
+  border-radius: 60%;
   flex-shrink: 1;
 }
 .flex-control-thumbs .flex-active {
